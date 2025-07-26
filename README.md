@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## The Flutter Gradle Plugin
 
 This directory contains Gradle code used to by the Flutter tool to build Flutter apps for Android,
@@ -37,3 +38,21 @@ to a good state on Mac, run `Help > "Repair IDE"`, and then in the popup window 
 
 To add a new test, add a class under `src/test/kotlin`, with methods annotated with `@Test`.
 These tests will get automatically run on CI by `packages/flutter_tools/test/integration.shard/android_run_flutter_gradle_plugin_tests_test.dart`.
+=======
+# first_app
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
+>>>>>>> a99925045c0f2738f24b40eed5050b8ca6964b2d
